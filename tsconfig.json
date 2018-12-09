@@ -1,0 +1,22 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"baseUrl": ".",
+		"esModuleInterop": true,
+		"inlineSourceMap": false,
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"newLine": "LF",
+		"noImplicitAny": false,
+		"noImplicitReturns": true,
+		"outDir": "dist",
+		"preserveConstEnums": true,
+		"pretty": true,
+		"removeComments": true,
+		"skipDefaultLibCheck": true,
+		"skipLibCheck": true,
+		"sourceMap": false,
+		"strictNullChecks": true,
+		"target": "es2016"
+	}
+}

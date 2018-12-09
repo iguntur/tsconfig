@@ -1,0 +1,12 @@
+{
+	"json.schemas": [
+		{
+			"fileMatch": [
+				"esnext.json",
+				"tsconfig.json",
+				"v4.json"
+			],
+			"url": "http://json.schemastore.org/tsconfig"
+		}
+	]
+}

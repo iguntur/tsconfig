@@ -1,0 +1,18 @@
+{
+	"name": "@guntur/tsconfig",
+	"description": "Typescript shareable `tsconfig`",
+	"version": "1.0.0",
+	"main": "tsconfig.json",
+	"repository": "iguntur/tsconfig",
+	"license": "MIT",
+	"files": [
+		"node",
+		"esnext.json",
+		"tsconfig.json"
+	],
+	"author": {
+		"name": "Guntur Poetra",
+		"email": "poetra.guntur@gmail.com",
+		"url": "https://github.com/iguntur"
+	}
+}
