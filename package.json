@@ -1,7 +1,7 @@
 {
 	"name": "@guntur/tsconfig",
 	"description": "Typescript shareable `tsconfig`",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "tsconfig.json",
 	"repository": "iguntur/tsconfig",
 	"license": "MIT",
