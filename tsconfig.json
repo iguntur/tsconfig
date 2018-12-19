@@ -17,6 +17,9 @@
 		"skipLibCheck": true,
 		"sourceMap": false,
 		"strictNullChecks": true,
-		"target": "es2016"
+		"target": "es2016",
+		"lib": [
+			"es2016"
+		]
 	}
 }

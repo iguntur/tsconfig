@@ -2,6 +2,9 @@
 	"extends": "./tsconfig",
 	"compilerOptions": {
 		"module": "esnext",
-		"target": "esnext"
+		"target": "esnext",
+		"lib": [
+			"esnext"
+		]
 	}
 }
